@@ -5,7 +5,7 @@ import setuptools
 
 
 requirements = [
-    'torch^=1.7.0', 
+    'torch>=1.7.0', 
     'gymnasium', 
     # 'atari-py', 
     'numpy', 
