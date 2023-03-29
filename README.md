@@ -20,7 +20,12 @@ pip install ptan
 
 From github:
 ```bash
-pip install pip install git+https://github.com/Shmuma/ptan.git 
+pip install pip install git+https://github.com/abbymark/gymnasium_compatible_ptan.git 
+```
+
+For poetry:
+```bash
+poetry add git+https://github.com/abbymark/gymnasium_compatible_ptan.git
 ```
 
 ## Requirements
